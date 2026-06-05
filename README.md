@@ -75,7 +75,7 @@ Hey there! I'm **Akshara Narvaneni**, a passionate **Data Analytics & Machine Le
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshara-narvaneni-915378388)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aksharanarvaneni-gif)
-[![Portfolio](https://claude.ai/public/artifacts/78a407a3-d4f6-4a0b-b471-6a45c8203765)
+[![Portfolio](https://subtle-pavlova-a6c5fa.netlify.app)
 
 </div>
 
